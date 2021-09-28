@@ -111,6 +111,7 @@ A list of awesome compiler projects and papers for tensor computation and deep l
 - [Nimble: Lightweight and Parallel GPU Task Scheduling for Deep Learning](https://proceedings.neurips.cc/paper/2020/file/5f0ad4db43d8723d18169b2e4817a160-Paper.pdf) by Woosuk Kwon et al., Neurips 2020
 - [Equality Saturation for Tensor Graph Superoptimization](https://arxiv.org/pdf/2101.01332.pdf) by Yichen Yang et al., MLSys 2021
 - [IOS: An Inter-Operator Scheduler for CNN Acceleration](https://arxiv.org/pdf/2011.01302.pdf) by Yaoyao Ding et al., MLSys 2021
+- [AutoGTCO: Graph and Tensor Co-Optimize forImage Recognition with Transformers on GPU](http://www.cse.cuhk.edu.hk/~byu/papers/C129-ICCAD2021-AutoGTCO.pdf) by Yang Bai et al., ICCAD2021
 
 ### Dynamic Model
 - [Nimble: Efficiently Compiling Dynamic Neural Networks for Model Inference](https://arxiv.org/pdf/2006.03031.pdf) by Haichen Shen et al., MLSys 2021
